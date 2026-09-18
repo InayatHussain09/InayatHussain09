@@ -230,9 +230,6 @@ https://linkedin.com/in/inayat-hussain-chohan
 **GitHub:**  
 https://github.com/InayatHussain09
 
-**Email:**  
-inayathussain01764@gmail.com
-
 ---
 
 ### Build. Break. Research. Engineer. Repeat.
