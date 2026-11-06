@@ -1,236 +1,151 @@
-# INAYAT HUSSAIN
+ <div align="center">
 
-### Senior Offensive Security Engineer · Red Team Operator · 0-Day Researcher · Malware Developer · Exploit Developer · Security Researcher
+<a href="https://github.com/InayatHussain09">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A43,100:00C6D7&height=190&section=header&text=INAYAT%20HUSSAIN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%7C%20RED%20TEAM%20%7C%20SECURITY%20RESEARCH&descSize=13&descAlignY=58" width="100%" />
+</a>
 
-[LinkedIn](https://linkedin.com/in/inayat-hussain-chohan) · [GitHub](https://github.com/InayatHussain09)
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&width=750&lines=Senior+Offensive+Security+Engineer;Red+Team+Operator;Malware+%26+Exploit+Developer;0-Day+%26+Vulnerability+Researcher;Building+Offensive+Security+Capabilities" />
+</a>
+
+**Senior Offensive Security Engineer · Red Team Operator · Security Researcher**
+
+[LinkedIn](https://linkedin.com/in/inayat-hussain09/) · [GitHub](https://github.com/InayatHussain09)
+
+![Profile Views](https://komarev.com/ghpvc/?username=InayatHussain09&style=flat-square&color=00C6D7)
+
+</div>
 
 ---
 
 ## About
 
-I’m a self-taught **Senior Offensive Security Engineer and Red Team Operator** with 9 years of hands-on experience across offensive security, penetration testing, adversary simulation, vulnerability research, and real-world security operations.
+Self-taught **Senior Offensive Security Engineer and Red Team Operator** with 9 years of hands-on experience across offensive security, penetration testing, adversary simulation, vulnerability research, and security engineering.
 
-I approach offensive security from both an **operator and engineering perspective** — not only assessing security weaknesses, but studying how offensive capabilities are designed, engineered, executed, detected, and improved.
+I combine offensive operations with software development and low-level security research, focusing on understanding systems, discovering weaknesses, engineering capabilities, and developing specialized security tools.
 
-My background covers offensive security across modern enterprise and technology environments, including:
-
-- Web Applications
-- APIs
-- Networks & Infrastructure
-- Cloud
-- Active Directory
-- Windows Security
-- Enterprise Security
-- IoT
-- Wireless Security
+- Advanced Red Team Operations & Adversary Simulation
+- Web, API, Network & Cloud Security
+- Active Directory & Windows Security
+- Reverse Engineering & Vulnerability Research
+- Malware & Exploit Development
 - OSINT & Threat Intelligence
-- Red Team Operations
-- Adversary Simulation
 
-Alongside security engagements and research, I have built and released **20+ open-source offensive security, OSINT, and bug-bounty tools**, focused on reconnaissance, intelligence gathering, attack-surface discovery, automation, and vulnerability identification.
+**20+ open-source security tools developed.**
+
+## Flagship Projects
+
+My most substantial offensive security engineering projects, built around specialized research, automation, and operational capabilities.
+
+### 01. SpectreHunt
+**File Inclusion & Command Execution Framework**
+
+[Repository →](https://github.com/InayatHussain09/spectrehunt)
+
+`Python` `LFI` `RFI` `RCE` `Path Traversal` `Command Injection`
+
+Specialized vulnerability discovery and testing framework featuring endpoint discovery, parameter fuzzing, payload mutation, response validation, and vulnerability investigation.
+
+<text>Version 5.1.0</text>
+
+### 02. Reconic
+**Reconnaissance & Vulnerability Detection Engine**
+
+[Repository →](https://github.com/InayatHussain09/reconic)
+
+`Bash` `Reconnaissance` `OOB` `Automation` `Vulnerability Detection`
+
+Nine-phase reconnaissance pipeline featuring 19 detection modules, 380+ payloads, out-of-band callback correlation, confidence grading, and regression analysis.
+
+<text>Version 8.1</text>
+
+### 03. SpectrePhish
+**Phishing Operator Framework for Red Team Operations**
+
+[Repository →](https://github.com/InayatHussain09/spectrephish)
+
+`Python` `Campaign Management` `OPSEC` `Landing Pages` `Reporting`
+
+Campaign operations framework featuring 60 email templates, an 80-asset catalog, target management, landing-page management, operational diagnostics, and reporting.
+
+### Additional Projects
+
+- **BLACKSITE OSINT** — Advanced intelligence gathering and reconnaissance framework.
+- **SocialIntellax** — Modular OSINT and threat intelligence platform with 20+ modules.
+- **20+ Security Tools** — Custom offensive security, OSINT, reconnaissance, and bug bounty utilities.
 
 ---
 
 ## Core Expertise
 
-### Offensive Security
-
-- Web Application Security
-- API Security
-- Network & Infrastructure Penetration Testing
-- Cloud Security Testing
-- Active Directory & Windows Security
-- Enterprise Security & VAPT
-- IoT Penetration Testing
-- SCADA / ICS Security Testing
-- Wireless Penetration Testing
-
-### Red Team & Adversary Operations
-
-- Red Team Operations
-- Adversary Simulation & Emulation
-- Advanced Red Team Tradecraft
-- C2 Infrastructure & Operations
-- Custom C2 Development
-- Attack-Surface Mapping
-- Reconnaissance & Intelligence Operations
-- Threat Intelligence
-- OSINT
-
-### Security Research & Engineering
-
-- Vulnerability Research
-- 0-Day Research
-- Reverse Engineering
-- Exploit Development
-- Malware Development & Analysis
-- Windows Internals
-- Low-Level Security Research
-- Security Automation
-- Offensive Security Tool Development
-- Bug Bounty Research
-
----
-
-## Current Deep Specialization
-
-I’m currently going deeper into the low-level and research side of offensive security, focusing on:
-
-- Advanced Red Team Tradecraft
-- Windows Internals
-- C / C++
-- Systems Programming
-- Reverse Engineering
-- Malware Development & Analysis
-- Exploit Development
-- Vulnerability Research
-- 0-Day Research
-- Advanced C2 Architecture
-- Custom C2 Development
-- Low-Level Security
-
-The goal is to progress beyond simply **using offensive techniques** — toward understanding, engineering, researching, and developing advanced offensive capabilities.
-
----
+| Offensive Security | Red Team Operations | Security Research |
+|---|---|---|
+| Web & API Security | Adversary Simulation | Vulnerability Research |
+| Network & Cloud | C2 Infrastructure | Reverse Engineering |
+| Active Directory | Red Team Tradecraft | Exploit Development |
+| IoT & ICS Security | Intelligence Operations | Malware Development |
+| Wireless Security | Reconnaissance | Windows Internals |
 
 ## Technical Arsenal
 
-### Red Team & Windows
+**Red Team & Windows**
 
-`Cobalt Strike` · `Sliver C2` · `BloodHound` · `Impacket` · `Mimikatz` · `NetExec` · `Responder` · `Certipy` · `Rubeus` · `PowerView`
+`Cobalt Strike` `Sliver` `BloodHound` `Impacket` `Mimikatz` `NetExec` `Certipy` `Rubeus`
 
-### Web & Application Security
+**Web & Application Security**
 
-`Burp Suite Pro` · `Nuclei` · `FFUF` · `Postman` · `Amass` · `Subfinder` · `HTTPx` · `Katana` · `Waybackurls`
+`Burp Suite Pro` `Nuclei` `FFUF` `Amass` `Subfinder` `HTTPx` `Katana` `Postman`
 
-### OSINT & Intelligence
+**OSINT & Intelligence**
 
-`Maltego` · `Shodan` · `Google Dorks` · `GitHub Intelligence` · `Threat Intelligence Workflows`
+`Maltego` `Shodan` `Google Dorks` `GitHub Intelligence`
 
-### Programming & Systems
+**Programming & Systems**
 
-`Python` · `Bash` · `PowerShell` · `Linux` · `Windows` · `Active Directory` · `C` · `C++`
+`Python` `Bash` `PowerShell` `C` `C++` `Linux` `Windows`
 
----
+## Research Focus
 
-## Open-Source Security Engineering
-
-I build offensive security and intelligence tooling with an emphasis on **automation, modularity, reconnaissance, research, and operational efficiency**.
-
-### BLACKSITE OSINT
-
-Advanced Bash-based OSINT framework designed for intelligence gathering and reconnaissance workflows.
-
-### SocialIntellax
-
-Modular OSINT and threat-intelligence platform containing **20+ modules** for intelligence collection and analysis.
-
-### Reconic
-
-Reconnaissance automation framework integrating tools and workflows for:
-
-- Subdomain discovery
-- HTTP probing
-- Web crawling
-- Historical URL discovery
-- Vulnerability scanning
-- Attack-surface mapping
-
-### 20+ Security Tools
-
-A collection of custom offensive security, OSINT, reconnaissance, and bug-bounty automation tools developed for practical security research and operations.
-
----
-
-## Security Philosophy
-
-> **Don't just learn the tool. Understand the technique.**  
-> **Don't just understand the technique. Understand the system.**  
-> **Don't just understand the system. Learn how to engineer the capability.**
-
----
-
-## Offensive Security Journey
-
-```text
-Penetration Testing
-        ↓
-Red Team Operations
-        ↓
-Adversary Simulation
-        ↓
-Security Engineering
-        ↓
-Vulnerability Research
-        ↓
-Reverse Engineering
-        ↓
-Windows Internals
-        ↓
-Low-Level Security
-        ↓
-Malware Development
-        ↓
-Exploit Development
-        ↓
-Advanced Offensive Research
-        ↓
-0-Day / Novel Vulnerability Research
-```
-
----
-
-## Research Interests
-
-My current research interests include:
-
-- Windows Internals
-- Offensive Windows Development
+- Windows Internals & Low-Level Security
 - Reverse Engineering
-- Malware Development
-- Exploit Development
-- Vulnerability Research
-- 0-Day Research
-- Custom C2 Architecture
-- Red Team Infrastructure
-- Adversary Emulation
-- Low-Level Security
-- Offensive Security Automation
+- Malware & Exploit Development
+- Vulnerability & 0-Day Research
+- C / C++ & Systems Programming
+- Advanced C2 Architecture
+- Offensive Security Engineering
 
----
+## GitHub Analytics
 
-## Community & Collaboration
+<div align="center">
 
-I’m interested in collaborating with security researchers, red teamers, penetration testers, developers, and security communities on:
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=InayatHussain09&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InayatHussain09&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=InayatHussain09&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## Collaboration
+
+Open to collaboration with security researchers, red team operators, developers, and security communities in:
 
 - Offensive Security Research
-- Open-Source Security Projects
-- Red Team Tooling
+- Open-Source Security Engineering
+- Red Team Tool Development
 - Vulnerability Research
 - Security Automation
-- C2 Development
-- Security Education
-- Community Projects
 
 ---
 
-## Professional Development
+<div align="center">
 
-My professional development spans offensive security, red teaming, application security, API security, cloud security, defensive security, cybersecurity operations, and AI/LLM security.
+**UNDERSTAND THE SYSTEM. ENGINEER THE CAPABILITY.**
 
-I focus primarily on **hands-on capability, research, engineering, and real-world application** rather than simply collecting certifications.
+### BUILD. BREAK. RESEARCH. ENGINEER. REPEAT.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6D7,50:102A43,100:080B16&height=100&section=footer" width="100%" />
 
-## Connect
-
-**LinkedIn:**  
-https://linkedin.com/in/inayat-hussain-chohan
-
-**GitHub:**  
-https://github.com/InayatHussain09
-
----
-
-### Build. Break. Research. Engineer. Repeat.
-
+</div>
