@@ -8,9 +8,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&width=750&lines=Senior+Offensive+Security+Engineer;Red+Team+Operator;Malware+%26+Exploit+Developer;0-Day+%26+Vulnerability+Researcher;Building+Offensive+Security+Capabilities" />
 </a>
 
-**Senior Offensive Security Engineer · Red Team Operator · Security Researcher**
+**CEO & CISO @ Black Eagle Group**
 
-[LinkedIn](https://linkedin.com/in/inayat-hussain09/) · [GitHub](https://github.com/InayatHussain09)
+Senior Offensive Security Engineer · Red Team Operator · Security Researcher
+
+[LinkedIn](https://linkedin.com/in/inayat-hussain09/) · [GitHub](https://github.com/InayatHussain09) · [Black Eagle Group](https://www.linkedin.com/company/145420346/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=InayatHussain09&style=flat-square&color=00C6D7)
 
@@ -33,9 +35,33 @@ I combine offensive operations with software development and low-level security 
 
 **20+ open-source security tools developed.**
 
-## Flagship Projects
+## Leadership & Entrepreneurship
 
-My most substantial offensive security engineering projects, built around specialized research, automation, and operational capabilities.
+**Chief Executive Officer & Chief Information Security Officer — Black Eagle Group**
+
+*June 2026 – Present*
+
+Founded and lead Black Eagle Group, driving its strategic direction, organizational development, and technology initiatives.
+
+- Corporate strategy, executive leadership, and business development.
+- Cybersecurity strategy and enterprise security solutions.
+- Offensive security research and proprietary security frameworks.
+- AI-driven technologies, intelligent systems, and agentic AI research.
+- Product engineering, technical development, and strategic partnerships.
+
+**Co-Founder — Black Eagle Group**
+
+*March 2026 – May 2026*
+
+Contributed to the company's early foundation, strategic planning, technology development, and initial research and product initiatives.
+
+[Explore Black Eagle Group](https://www.linkedin.com/company/145420346/)
+
+---
+
+## Flagship Offensive Security Projects
+
+My most ambitious security engineering projects, built around specialized research, automation, and operational capabilities.
 
 ### 01. SpectreHunt
 **File Inclusion & Command Execution Framework**
@@ -46,7 +72,7 @@ My most substantial offensive security engineering projects, built around specia
 
 Specialized vulnerability discovery and testing framework featuring endpoint discovery, parameter fuzzing, payload mutation, response validation, and vulnerability investigation.
 
-<text>Version 5.1.0</text>
+**Version 5.1.0**
 
 ### 02. Reconic
 **Reconnaissance & Vulnerability Detection Engine**
@@ -57,7 +83,7 @@ Specialized vulnerability discovery and testing framework featuring endpoint dis
 
 Nine-phase reconnaissance pipeline featuring 19 detection modules, 380+ payloads, out-of-band callback correlation, confidence grading, and regression analysis.
 
-<text>Version 8.1</text>
+**Version 8.1**
 
 ### 03. SpectrePhish
 **Phishing Operator Framework for Red Team Operations**
@@ -104,6 +130,8 @@ Campaign operations framework featuring 60 email templates, an 80-asset catalog,
 
 `Python` `Bash` `PowerShell` `C` `C++` `Linux` `Windows`
 
+---
+
 ## Research Focus
 
 - Windows Internals & Low-Level Security
@@ -114,28 +142,15 @@ Campaign operations framework featuring 60 email templates, an 80-asset catalog,
 - Advanced C2 Architecture
 - Offensive Security Engineering
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=InayatHussain09&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InayatHussain09&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=InayatHussain09&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ## Collaboration
 
-Open to collaboration with security researchers, red team operators, developers, and security communities in:
+Interested in collaborating with security researchers, red team operators, developers, and technology leaders on:
 
 - Offensive Security Research
 - Open-Source Security Engineering
 - Red Team Tool Development
 - Vulnerability Research
+- AI & Cybersecurity
 - Security Automation
 
 ---
@@ -146,6 +161,8 @@ Open to collaboration with security researchers, red team operators, developers,
 
 ### BUILD. BREAK. RESEARCH. ENGINEER. REPEAT.
 
+<a href="https://github.com/InayatHussain09">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6D7,50:102A43,100:080B16&height=100&section=footer" width="100%" />
+</a>
 
 </div>
