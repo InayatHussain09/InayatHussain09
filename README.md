@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <a href="https://github.com/InayatHussain09">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A43,100:00C6D7&height=190&section=header&text=INAYAT%20HUSSAIN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%7C%20RED%20TEAM%20%7C%20SECURITY%20RESEARCH&descSize=13&descAlignY=58" width="100%" />
@@ -94,6 +94,17 @@ Nine-phase reconnaissance pipeline featuring 19 detection modules, 380+ payloads
 
 Campaign operations framework featuring 60 email templates, an 80-asset catalog, target management, landing-page management, operational diagnostics, and reporting.
 
+### 04. SpectreAD
+**Active Directory Attack Path Framework**
+
+[Repository →](https://github.com/InayatHussain09/spectread)
+
+`Python` `Active Directory` `Red Team` `ACL Abuse` `DCSync` `Attack Paths`
+
+Adversary simulation framework featuring LDAP/SMB reconnaissance, lockout-aware spraying, AS-REP and Kerberoasting, ACE enumeration and abuse across eight edge types, shortest-path-to-Domain-Admin graphing, DRSUAPI replication, DPAPI extraction, and a twelve-stage automated kill chain.
+
+**Version 2.1.0**
+
 ### Additional Projects
 
 - **BLACKSITE OSINT** — Advanced intelligence gathering and reconnaissance framework.
@@ -120,7 +131,7 @@ Campaign operations framework featuring 60 email templates, an 80-asset catalog,
 
 **Web & Application Security**
 
-`Burp Suite Pro` `Nuclei` `FFUF` `Amass` `Subfinder` `HTTPx` `Katana` `Postman`
+`Burp Suite Pro` `Nuclei` `FFuf` `Amass` `Subfinder` `HTTPx` `Katana` `Postman`
 
 **OSINT & Intelligence**
 
