@@ -1,74 +1,65 @@
  <div align="center">
 
-<a href="https://github.com/InayatHussain09">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:260A10,70:680D19,100:AA1728&height=220&section=header&text=INAYAT%20HUSSAIN&fontSize=45&fontColor=FFFFFF&fontAlignY=36&desc=ADVANCED%20RED%20TEAM%20%7C%20OFFENSIVE%20SECURITY%20%7C%20SECURITY%20RESEARCH&descSize=12&descAlignY=58" width="100%" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2500&pause=1000&color=9B9B9B&center=true&vCenter=true&width=650&lines=INDEPENDENT+THINKING.+TECHNICAL+PRECISION.;UNDERSTANDING+SYSTEMS+BEYOND+THE+SURFACE.;ENGINEERING+OFFENSIVE+CAPABILITIES." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=900&color=E32636&center=true&vCenter=true&width=850&lines=Senior+Offensive+Security+Engineer;Advanced+Red+Team+Operator;Malware+%26+Exploit+Developer;0-Day+%26+Vulnerability+Researcher;Windows+Internals+%26+Reverse+Engineering;Adversary+Simulation+%26+C2+Engineering" />
+# INAYAT HUSSAIN
 
-<br/>
+### Senior Offensive Security Engineer
 
-**CEO & CISO @ Black Eagle Group**
-
-Senior Offensive Security Engineer · Red Team Operator · 0-Day Researcher · Malware Developer · Exploit Developer
-
-[LinkedIn](https://linkedin.com/in/inayat-hussain09/) · [GitHub](https://github.com/InayatHussain09) · [Black Eagle Group](https://www.linkedin.com/company/145420346/)
+**Red Team Operator / Malware & Exploit Developer / Security Researcher**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=InayatHussain09&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/IDENTITY-RED%20TEAM%20ENGINEER-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SPECIALIZATION-OFFENSIVE%20SECURITY-171717?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RESEARCH-0--DAY%20%26%20EXPLOIT-8B0000?style=for-the-badge" />
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-181818?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/inayat-hussain09/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/InayatHussain09)
+[![Black Eagle Group](https://img.shields.io/badge/BLACK_EAGLE_GROUP-181818?style=flat-square&logo=target&logoColor=white)](https://www.linkedin.com/company/145420346/)
+[![Profile Views](https://komarev.com/ghpvc/?username=InayatHussain09&style=flat-square&color=555555&label=VIEWS)](https://github.com/InayatHussain09)
 
 </div>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="65%" valign="top">
 
-## 01 / OPERATOR PROFILE
+### THE OPERATOR
 
-**UNDERSTAND THE SYSTEM. ENGINEER THE CAPABILITY.**
+Self-taught Senior Offensive Security Engineer and Red Team Operator with **9 years of hands-on experience** across offensive security, penetration testing, adversary simulation, vulnerability research, and security engineering.
 
-</div>
-
-Self-taught **Senior Offensive Security Engineer and Red Team Operator** with 9 years of hands-on experience across offensive security, penetration testing, adversary simulation, vulnerability research, and security engineering.
-
-I combine offensive operations with software development and low-level security research, focusing on understanding systems, discovering weaknesses, engineering capabilities, and developing specialized security tools.
-
-My work operates at the intersection of advanced offensive security, adversary simulation, systems programming, reverse engineering, malware engineering, and vulnerability research.
-
-**Primary Operational Domains**
-
-- Advanced Red Team Operations & Adversary Simulation
-- Command & Control Infrastructure & Operations
-- Web, API, Network & Cloud Security
-- Active Directory & Windows Security
-- Windows Internals & Low-Level Security
-- Reverse Engineering & Binary Analysis
-- Malware & Exploit Development
-- Vulnerability Discovery & 0-Day Research
-- OSINT & Cyber Threat Intelligence
+My work combines offensive operations with software development and low-level security research. I focus on understanding systems, discovering weaknesses, engineering capabilities, and developing specialized security tools.
 
 **20+ open-source security tools developed.**
 
----
+</td>
+<td width="35%" valign="top">
 
-<div align="center">
+### CURRENT POSITION
 
-## 02 / EXECUTIVE LEADERSHIP
+**CEO & CISO**
 
-**STRATEGY · SECURITY · ENGINEERING · INNOVATION**
+Black Eagle Group
 
-</div>
+**CORE DOMAINS**
 
-### Chief Executive Officer & Chief Information Security Officer — Black Eagle Group
+- Red Team Operations
+- Offensive Engineering
+- Malware Development
+- Exploit Research
+- Reverse Engineering
+- Vulnerability Research
 
-*June 2026 – Present*
+</td>
+</tr>
+</table>
+
+## EXECUTIVE / 01
+
+### Black Eagle Group
+
+**Chief Executive Officer & Chief Information Security Officer**
+
+`June 2026 – Present`
 
 Founded and lead Black Eagle Group, driving its strategic direction, organizational development, and technology initiatives.
 
@@ -78,233 +69,208 @@ Founded and lead Black Eagle Group, driving its strategic direction, organizatio
 - AI-driven technologies, intelligent systems, and agentic AI research.
 - Product engineering, technical development, and strategic partnerships.
 
-### Co-Founder — Black Eagle Group
+**Previously — Co-Founder**
 
-*March 2026 – May 2026*
+`March 2026 – May 2026`
 
 Contributed to the company's early foundation, strategic planning, technology development, and initial research and product initiatives.
 
-[Explore Black Eagle Group →](https://www.linkedin.com/company/145420346/)
+[BLACK EAGLE GROUP ↗](https://www.linkedin.com/company/145420346/)
 
 ---
 
-<div align="center">
+# ENGINEERING PORTFOLIO / 02
 
-## 03 / FLAGSHIP OFFENSIVE SECURITY PROJECTS
+*Selected projects across offensive security, reconnaissance, automation and specialized security engineering.*
 
-**ENGINEERED TOOLS · RESEARCH · OPERATIONAL CAPABILITIES**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
-
-My most ambitious security engineering projects, built around specialized research, automation, and operational capabilities.
-
-### 01. SpectreHunt
+### 01 / SPECTREHUNT
 
 **File Inclusion & Command Execution Framework**
 
-[Repository →](https://github.com/InayatHussain09/spectrehunt)
-
-`Python` `LFI` `RFI` `RCE` `Path Traversal` `Command Injection`
+[VIEW REPOSITORY ↗](https://github.com/InayatHussain09/spectrehunt)
 
 Specialized vulnerability discovery and testing framework featuring endpoint discovery, parameter fuzzing, payload mutation, response validation, and vulnerability investigation.
 
-<kbd>VERSION 5.1.0</kbd>
+`Python` `LFI` `RFI` `RCE`
 
-### 02. Reconic
+`Path Traversal` `Command Injection`
+
+**VERSION 5.1.0**
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / RECONIC
 
 **Reconnaissance & Vulnerability Detection Engine**
 
-[Repository →](https://github.com/InayatHussain09/reconic)
-
-`Bash` `Reconnaissance` `OOB` `Automation` `Vulnerability Detection`
+[VIEW REPOSITORY ↗](https://github.com/InayatHussain09/reconic)
 
 Nine-phase reconnaissance pipeline featuring 19 detection modules, 380+ payloads, out-of-band callback correlation, confidence grading, and regression analysis.
 
-<kbd>VERSION 8.1</kbd>
+`Bash` `Reconnaissance` `OOB`
 
-### 03. SpectrePhish
+`Automation` `Vulnerability Detection`
+
+**VERSION 8.1**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / SPECTREPHISH
 
 **Phishing Operator Framework for Red Team Operations**
 
-[Repository →](https://github.com/InayatHussain09/spectrephish)
-
-`Python` `Campaign Management` `OPSEC` `Landing Pages` `Reporting`
+[VIEW REPOSITORY ↗](https://github.com/InayatHussain09/spectrephish)
 
 Campaign operations framework featuring 60 email templates, an 80-asset catalog, target management, landing-page management, operational diagnostics, and reporting.
 
-### 04. SpectreAD
+`Python` `Campaign Management`
+
+`OPSEC` `Landing Pages` `Reporting`
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / SPECTREAD
 
 **Active Directory Attack Path Framework**
 
-[Repository →](https://github.com/InayatHussain09/spectread)
-
-`Python` `Active Directory` `Red Team` `ACL Abuse` `DCSync` `Attack Paths`
+[VIEW REPOSITORY ↗](https://github.com/InayatHussain09/spectread)
 
 Adversary simulation framework featuring LDAP/SMB reconnaissance, lockout-aware spraying, AS-REP and Kerberoasting, ACE enumeration and abuse across eight edge types, shortest-path-to-Domain-Admin graphing, DRSUAPI replication, DPAPI extraction, and a twelve-stage automated kill chain.
 
-<kbd>VERSION 2.1.0</kbd>
+`Python` `Active Directory` `ACL Abuse`
 
-### Additional Research & Engineering Projects
+`DCSync` `Attack Paths`
 
-- **BLACKSITE OSINT** — Advanced intelligence gathering and reconnaissance framework.
-- **SocialIntellax** — Modular OSINT and threat intelligence platform with 20+ modules.
-- **20+ Security Tools** — Custom offensive security, OSINT, reconnaissance, and bug bounty utilities.
+**VERSION 2.1.0**
 
----
+</td>
+</tr>
+</table>
 
-<div align="center">
+### OTHER ENGINEERING PROJECTS
 
-## 04 / ADVANCED RED TEAM CRAFT
-
-**ADVERSARY SIMULATION · OPERATIONAL TRADECRAFT · C2 INFRASTRUCTURE**
-
-</div>
-
-### 01 — Command & Control Infrastructure
-
-`Cobalt Strike` · `Brute Ratel C4` · `Nighthawk` · `Sliver` · `Mythic` · `Havoc` · `AdaptixC2` · `Merlin`
-
-### 02 — Advanced Adversary Simulation
-
-`MITRE ATT&CK` · `MITRE Caldera` · `Atomic Red Team` · `Prelude Operator` · `Stratus Red Team` · `PurpleSharp` · `Infection Monkey`
-
-### 03 — Active Directory & Enterprise Operations
-
-`BloodHound` · `SharpHound` · `Rubeus` · `Certipy` · `Impacket` · `NetExec` · `Mimikatz` · `PowerView`
-
-### 04 — Red Team Infrastructure & Operations
-
-`C2 Infrastructure` · `Payload Engineering` · `Infrastructure Management` · `OPSEC` · `Adversary Emulation` · `Internal Network Operations` · `Lateral Movement Assessment` · `Privilege Escalation Research`
-
-### 05 — Windows Security & Low-Level Operations
-
-`Windows Internals` · `Win32 API` · `Native API` · `Process Architecture` · `Memory Management` · `Windows Authentication` · `Token Security` · `Kernel Research`
+| Project | Description |
+|:---|:---|
+| BLACKSITE OSINT | Advanced intelligence gathering and reconnaissance framework |
+| SocialIntellax | Modular OSINT and threat intelligence platform with 20+ modules |
+| Security Tooling | 20+ custom offensive security, OSINT, reconnaissance and bug bounty utilities |
 
 ---
 
-<div align="center">
+# OPERATIONAL TOOLKIT / 03
 
-## 05 / MALWARE & EXPLOIT ENGINEERING
+*Frameworks, platforms and engineering environments across offensive security operations and research.*
 
-**LOW-LEVEL DEVELOPMENT · BINARY ANALYSIS · SYSTEMS RESEARCH**
+### COMMAND & CONTROL / ADVERSARY INFRASTRUCTURE
 
-</div>
+`Cobalt Strike` `Brute Ratel C4` `Nighthawk` `Sliver` `Mythic` `Havoc` `AdaptixC2` `Merlin` `Metasploit Framework` `MITRE Caldera` `PoshC2`
 
-### Malware Development & Analysis
+### ENTERPRISE / ACTIVE DIRECTORY OPERATIONS
 
-`C` · `C++` · `Python` · `Assembly` · `Visual Studio` · `WinDbg` · `x64dbg` · `Frida` · `YARA` · `capa`
+`BloodHound` `SharpHound` `Rubeus` `Certipy` `Impacket` `NetExec` `Mimikatz` `PowerView` `ADExplorer` `PingCastle` `Responder` `Coercer` `ROADtools` `AzureHound`
 
-### Reverse Engineering
+### ADVERSARY EMULATION
 
-`IDA Pro` · `Ghidra` · `Binary Ninja` · `radare2` · `Cutter` · `dnSpyEx` · `ILSpy` · `GDB` · `x64dbg`
+`MITRE ATT&CK` `Atomic Red Team` `Prelude Operator` `Stratus Red Team` `PurpleSharp` `Infection Monkey`
 
-### Exploit Development
+### WINDOWS INTERNALS / LOW-LEVEL SECURITY
 
-`pwntools` · `ROPgadget` · `Ropper` · `GDB` · `pwndbg` · `GEF` · `Capstone` · `Keystone` · `Unicorn Engine`
-
-### Fuzzing & Vulnerability Discovery
-
-`AFL++` · `libFuzzer` · `WinAFL` · `honggfuzz` · `libAFL` · `Syzkaller` · `angr`
-
-### Binary Instrumentation
-
-`Frida` · `DynamoRIO` · `Qiling` · `Unicorn` · `Capstone` · `Keystone`
-
-### Windows Internals & Kernel Research
-
-`WinDbg` · `Sysinternals Suite` · `Windows SDK` · `Windows Driver Kit` · `Process Monitor` · `Process Explorer`
+`WinDbg` `x64dbg` `Sysinternals Suite` `Process Monitor` `Process Explorer` `Windows SDK` `Windows Driver Kit` `PE-bear` `PEStudio` `API Monitor`
 
 ---
 
-<div align="center">
+# BINARY RESEARCH / 04
 
-## 06 / 0-DAY & VULNERABILITY RESEARCH
+### MALWARE ENGINEERING
 
-**DISCOVER · ANALYZE · VALIDATE · UNDERSTAND ROOT CAUSES**
+`C` `C++` `Python` `Assembly` `Visual Studio` `WinDbg` `x64dbg` `Frida` `YARA` `capa` `FLOSS` `Detect It Easy` `Volatility 3`
 
-</div>
+### REVERSE ENGINEERING
 
-Research interests focused on vulnerability discovery, root-cause analysis, binary security, and exploitability assessment.
+`IDA Pro` `Ghidra` `Binary Ninja` `radare2` `Cutter` `GDB` `dnSpyEx` `ILSpy` `Frida` `DynamoRIO`
 
-### Research Areas
+### EXPLOIT DEVELOPMENT
 
-- Windows Internals & Kernel Security
-- Memory Corruption & Memory Safety
-- Stack & Heap Vulnerabilities
-- Use-After-Free & Double-Free
-- Buffer Overflow & Out-of-Bounds Access
-- Integer Overflow & Type Confusion
-- Race Conditions & TOCTOU
-- Fuzzing & Crash Triage
-- Binary Analysis & Patch Diffing
-- Static & Dynamic Code Analysis
-- Exploitability Assessment
-- Vulnerability Root-Cause Analysis
+`pwntools` `ROPgadget` `Ropper` `GDB` `pwndbg` `GEF` `Capstone` `Keystone` `Unicorn Engine`
 
-### Research & Analysis Toolkit
+### FUZZING / BINARY INSTRUMENTATION
 
-`CodeQL` · `Semgrep` · `Ghidra` · `IDA Pro` · `AFL++` · `libAFL` · `libFuzzer` · `WinAFL` · `honggfuzz` · `Syzkaller` · `WinDbg` · `Frida`
+`AFL++` `libFuzzer` `WinAFL` `honggfuzz` `libAFL` `Syzkaller` `DynamoRIO` `Qiling` `Unicorn` `Triton`
+
+### WINDOWS SYSTEMS ENGINEERING
+
+`Windows Internals` `Win32 API` `Native API` `Windows SDK` `Windows Driver Kit` `Memory Management` `Process Architecture` `Kernel Research`
 
 ---
 
-<div align="center">
+# VULNERABILITY RESEARCH / 05
 
-## 07 / WEB & API EXPLOITATION
+*Understanding implementation flaws, identifying weaknesses and investigating root causes.*
 
-**APPLICATION SECURITY · ATTACK SURFACE DISCOVERY · VULNERABILITY RESEARCH**
+| RESEARCH AREA | FOCUS |
+|:---|:---|
+| Memory Corruption | Heap, stack and memory safety |
+| Use-After-Free | Object lifetime and memory management |
+| Buffer Overflow | Stack and heap corruption |
+| Integer Overflow | Integer handling and type safety |
+| Type Confusion | Object and type integrity |
+| Race Conditions | Concurrency and TOCTOU |
+| Fuzzing | Automated vulnerability discovery |
+| Binary Analysis | Static and dynamic analysis |
+| Patch Diffing | Code changes and vulnerability analysis |
+| Crash Triage | Root-cause and exploitability assessment |
+| Kernel Security | Windows internals and low-level research |
 
-</div>
+### RESEARCH TOOLCHAIN
 
-`Burp Suite Professional` · `Caido` · `Nuclei` · `ffuf` · `Katana` · `Kiterunner` · `sqlmap` · `Dalfox` · `Arjun` · `OWASP ZAP` · `httpx` · `Amass` · `Subfinder` · `Postman`
+`CodeQL` `Semgrep` `Ghidra` `IDA Pro` `AFL++` `libAFL` `libFuzzer` `WinAFL` `honggfuzz` `Syzkaller` `WinDbg` `Frida` `angr`
 
-### Core Research Areas
+---
+
+# APPLICATION & INFRASTRUCTURE SECURITY / 06
+
+### WEB & API SECURITY
+
+`Burp Suite Professional` `Caido` `OWASP ZAP` `Nuclei` `ffuf` `Feroxbuster` `Katana` `Kiterunner` `Arjun` `sqlmap` `Dalfox` `httpx` `Subfinder` `Amass` `Postman` `JWT Tool`
+
+**Assessment domains**
 
 - Web Application Security
 - REST API & GraphQL Security
-- Authentication & Authorization Testing
+- Authentication & Authorization
 - Business Logic Vulnerabilities
 - Server-Side Request Forgery
 - Injection Vulnerabilities
 - File Inclusion & Command Execution
 - API Attack Surface Discovery
-- Automated Vulnerability Detection
-- Manual Security Assessment
+- Manual & Automated Security Testing
+
+### CLOUD RED TEAMING
+
+`ROADtools` `AzureHound` `CloudFox` `Pacu` `Prowler` `ScoutSuite` `AWS CLI` `Azure CLI` `Terraform` `Stratus Red Team`
+
+### NETWORK & INFRASTRUCTURE
+
+`Nmap` `Masscan` `RustScan` `Wireshark` `TCPDump` `NetExec` `Responder` `mitmproxy` `Proxychains` `Chisel` `Ligolo-ng`
 
 ---
 
-<div align="center">
+# INTELLIGENCE / 07
 
-## 08 / CLOUD & INFRASTRUCTURE SECURITY
+### OSINT & THREAT INTELLIGENCE
 
-**CLOUD ADVERSARY SIMULATION · ENTERPRISE EXPOSURE · SECURITY ASSESSMENT**
+`Maltego` `Shodan` `theHarvester` `SpiderFoot` `Recon-ng` `Sherlock` `VirusTotal` `AbuseIPDB` `Google Dorks` `GitHub Intelligence` `MITRE ATT&CK`
 
-</div>
-
-### Cloud Red Teaming
-
-`ROADtools` · `AzureHound` · `CloudFox` · `Pacu` · `Prowler` · `ScoutSuite`
-
-### Network & Infrastructure
-
-`Nmap` · `Masscan` · `Wireshark` · `Responder` · `NetExec` · `RustScan` · `TCPDump` · `mitmproxy` · `Chisel` · `Ligolo-ng`
-
-### Cloud & Enterprise Platforms
-
-`AWS` · `Microsoft Azure` · `Google Cloud` · `Linux` · `Windows Server` · `Active Directory`
-
----
-
-<div align="center">
-
-## 09 / INTELLIGENCE & RECONNAISSANCE
-
-**OSINT · THREAT INTELLIGENCE · ATTACK SURFACE DISCOVERY**
-
-</div>
-
-`Maltego` · `Shodan` · `theHarvester` · `SpiderFoot` · `Recon-ng` · `Sherlock` · `VirusTotal` · `AbuseIPDB` · `Google Dorks` · `GitHub Intelligence` · `MITRE ATT&CK`
-
-### Intelligence Capabilities
+**Operational interests**
 
 - Open-Source Intelligence
 - Cyber Threat Intelligence
@@ -317,92 +283,75 @@ Research interests focused on vulnerability discovery, root-cause analysis, bina
 
 ---
 
-<div align="center">
+# TECHNICAL FOUNDATION / 08
 
-## 10 / CORE TECHNICAL EXPERTISE
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### PROGRAMMING
 
-| ADVANCED RED TEAM | OFFENSIVE SECURITY | RESEARCH & ENGINEERING |
-|:---|:---|:---|
-| Advanced Red Team Tradecraft | Web & API Security | 0-Day Research |
-| Red Team Operations | Network & Cloud Security | Exploit Development |
-| Adversary Simulation | Active Directory | Malware Development |
-| C2 Infrastructure & Operations | Enterprise VAPT | Reverse Engineering |
-| Internal Security Assessments | IoT & ICS Security | Windows Internals |
-| OPSEC & Adversary Emulation | Wireless Security | Binary Analysis |
-| Intelligence Operations | OSINT & Threat Intelligence | Systems Programming |
-| Red Team Automation | Application Security | Vulnerability Research |
+`C` `C++` `Python` `Bash` `PowerShell` `Rust` `Go` `Assembly`
 
----
+### SYSTEMS
 
-<div align="center">
+`Windows` `Linux` `Windows Internals` `Win32 API` `Native API` `Memory Management` `Binary Instrumentation`
 
-## 11 / PROGRAMMING & SYSTEMS ENGINEERING
+</td>
+<td width="50%" valign="top">
 
-**LOW-LEVEL PROGRAMMING · AUTOMATION · SECURITY TOOL DEVELOPMENT**
+### DEVELOPMENT
 
-</div>
+`Git` `Docker` `REST APIs` `Automation Engineering` `Visual Studio` `VS Code`
 
-### Programming Languages
+### INFRASTRUCTURE
 
-`C` · `C++` · `Python` · `Bash` · `PowerShell` · `Rust` · `Go`
+`AWS` `Microsoft Azure` `Google Cloud` `Active Directory` `Windows Server`
 
-### Systems & Development
-
-`Windows API` · `Win32` · `Assembly` · `Linux Internals` · `Memory Management` · `Binary Instrumentation` · `Git` · `Docker` · `REST APIs` · `Automation Engineering`
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+# CORE EXPERTISE / 09
 
-## 12 / RESEARCH FOCUS
-
-</div>
-
-| DOMAIN | RESEARCH DIRECTION |
+| OFFENSIVE OPERATIONS | ENGINEERING & RESEARCH |
 |:---|:---|
-| Red Team Engineering | Advanced adversary simulation and operational capabilities |
-| C2 Research | Command and control architecture and infrastructure |
-| Malware Engineering | Binary behavior, Windows internals and systems research |
-| Exploit Development | Memory corruption, debugging and exploitability |
-| 0-Day Research | Vulnerability discovery and root-cause analysis |
-| Reverse Engineering | Binary analysis and program behavior |
-| Windows Security | Internals, kernel architecture and memory security |
-| Systems Programming | C/C++, low-level development and instrumentation |
-| Vulnerability Research | Fuzzing, static analysis and crash triage |
+| Advanced Red Team Tradecraft | 0-Day & Vulnerability Research |
+| Red Team Operations | Malware Development |
+| Adversary Simulation | Exploit Development |
+| C2 Infrastructure & Operations | Reverse Engineering |
+| Active Directory Security | Windows Internals |
+| Web & API Security | Binary Analysis |
+| Network & Cloud Security | Systems Programming |
+| Enterprise VAPT | Fuzzing & Crash Analysis |
+| OSINT & Threat Intelligence | Security Tool Engineering |
+| IoT, ICS & Wireless Security | Low-Level Security Research |
 
 ---
 
+# GITHUB / 10
+
 <div align="center">
 
-## 13 / GITHUB ACTIVITY & STATISTICS
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=InayatHussain09&show_icons=true&theme=transparent&hide_border=true&title_color=AAAAAA&icon_color=888888&text_color=BBBBBB&count_private=true" />
 
-**OPEN-SOURCE ENGINEERING · RESEARCH · DEVELOPMENT**
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=InayatHussain09&show_icons=true&theme=dark&hide_border=true&bg_color=090909&title_color=E32636&icon_color=E32636&text_color=CCCCCC&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InayatHussain09&layout=compact&theme=dark&hide_border=true&bg_color=090909&title_color=E32636&text_color=CCCCCC" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InayatHussain09&layout=compact&theme=transparent&hide_border=true&title_color=AAAAAA&text_color=BBBBBB" />
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=InayatHussain09&theme=dark&hide_border=true&background=090909&ring=E32636&fire=E32636&currStreakLabel=E32636" />
+<img width="75%" src="https://streak-stats.demolab.com?user=InayatHussain09&theme=transparent&hide_border=true&ring=999999&fire=999999&currStreakLabel=AAAAAA" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=InayatHussain09&theme=darkhub&no-frame=true&no-bg=true&margin-w=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=InayatHussain09&theme=flat&no-frame=true&no-bg=true&margin-w=6" />
 
 </div>
 
 ---
 
-<div align="center">
-
-## 14 / COLLABORATION & PROFESSIONAL ENGAGEMENT
-
-</div>
+# ENGAGEMENTS / 11
 
 Interested in collaborating with security researchers, red team operators, developers, and technology leaders on:
 
@@ -416,22 +365,22 @@ Interested in collaborating with security researchers, red team operators, devel
 - AI & Cybersecurity
 - Security Automation
 
-For professional inquiries, research collaborations, and strategic engagements, connect through LinkedIn or GitHub.
+Professional inquiries and research collaborations:
+
+**[LinkedIn](https://linkedin.com/in/inayat-hussain09/) · [GitHub](https://github.com/InayatHussain09/)**
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=E32636&center=true&vCenter=true&width=700&lines=UNDERSTAND+THE+SYSTEM.;ENGINEER+THE+CAPABILITY.;BUILD.+BREAK.+RESEARCH.+REPEAT." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=650&lines=THINK+DEEPER.+LOOK+CLOSER.;ENGINEER+WHAT+DOES+NOT+EXIST.;KNOW+THE+SYSTEM.+UNDERSTAND+ITS+LIMITS." />
 
 <br/>
 
-**INTELLIGENCE · PRECISION · EXECUTION**
+**INDEPENDENCE OF THOUGHT. PRECISION OF EXECUTION.**
 
 <br/>
 
-<a href="https://github.com/InayatHussain09">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AA1728,50:480B13,100:080808&height=130&section=footer" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:555555,100:111111&height=3&section=footer" width="100%" />
 
 </div>
